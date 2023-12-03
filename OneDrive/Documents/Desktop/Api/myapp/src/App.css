@@ -1,0 +1,29 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+  background-color:aliceblue;
+}
+
+.beer-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.beer-card {
+  width: 200px;
+
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
