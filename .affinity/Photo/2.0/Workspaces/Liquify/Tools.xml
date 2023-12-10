@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workspace UID="Liquify">
+	<Tools Version="0">
+		<Item>LiquifyHand</Item>
+		<Item>LiquifyZoom</Item>
+		<Item>LiquifyPushForward</Item>
+		<Item>LiquifyPushLeft</Item>
+		<Item>LiquifyTwirl</Item>
+		<Item>LiquifyPinch</Item>
+		<Item>LiquifyPunch</Item>
+		<Item>LiquifyTurbulence</Item>
+		<Item>LiquifyMeshClone</Item>
+		<Item>LiquifyReconstruct</Item>
+		<Item>LiquifyFreeze</Item>
+		<Item>LiquifyThaw</Item>
+	</Tools>
+</Workspace>

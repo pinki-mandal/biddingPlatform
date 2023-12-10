@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workspace UID="HDR">
+	<Tools Version="0">
+		<Item>ToneMapHand</Item>
+		<Item>ToneMapZoom</Item>
+		<Item>ToneMapOverlayPaint</Item>
+		<Item>ToneMapOverlayErase</Item>
+		<Item>ToneMapOverlayGradient</Item>
+	</Tools>
+</Workspace>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workspace UID="Export">
+	<Tools Version="0">
+		<Item>SliceCreation</Item>
+		<Item>SelectExportable</Item>
+		<Item>Pan</Item>
+		<Item>Zoom</Item>
+	</Tools>
+</Workspace>

@@ -1,0 +1,4 @@
+[submodule "src/code-generator"]
+	path = src/code-generator
+	url = git@github.com:Locofy/Code-Generators.git
+	branch = master

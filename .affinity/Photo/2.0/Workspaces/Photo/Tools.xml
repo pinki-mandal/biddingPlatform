@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workspace UID="Photo">
+	<Tools Version="0">
+		<Item>Pan</Item>
+		<Item>Select</Item>
+		<Item SelectedId="ColourPicker">PickerFlyout</Item>
+		<Item>RasterCrop</Item>
+		<Item>RasterSelectionBrush</Item>
+		<Item>RasterFloodSelect</Item>
+		<Item SelectedId="RectangularMarquee">MarqueeFlyout</Item>
+		<Item>RasterFloodFill</Item>
+		<Item>RasterGradient</Item>
+		<Item SelectedId="RasterPaintBrush">ColourBrushFlyout</Item>
+		<Item>RasterPaintMixerBrush</Item>
+		<Item SelectedId="RasterEraseBrush">EraseFlyout</Item>
+		<Item SelectedId="RasterDodgeBrush">AdjustmentBrushFlyout</Item>
+		<Item>RasterCloneBrush</Item>
+		<Item>RasterUndoBrush</Item>
+		<Item SelectedId="RasterBlurBrush">SharpenBlurBrushFlyout</Item>
+		<Item SelectedId="RasterHealingBrush">HealFlyout</Item>
+		<Item SelectedId="Pen">PenNodeFlyout</Item>
+		<Item SelectedId="ShapeRectangle">ShapeFlyout</Item>
+		<Item SelectedId="ArtText">TextFlyout</Item>
+		<Item SelectedId="MeshWarp">DeformationFlyout</Item>
+		<Item>Zoom</Item>
+	</Tools>
+</Workspace>

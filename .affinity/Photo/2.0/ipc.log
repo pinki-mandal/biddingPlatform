@@ -1,0 +1,8 @@
+[Sat Apr 22 12:13:18 2023] Initialising IPC for Affinity Photo 2.0.4.1701
+[Sat Apr 22 12:13:18 2023] [Client] Starting IPC connection management
+[Sat Apr 22 12:13:18 2023] [Client] Attempting to start local server...
+[Sat Apr 22 12:13:18 2023] [Server] Started
+[Sat Apr 22 12:13:18 2023] [Client] Local server has started; attempting to connect to it...
+[Sat Apr 22 12:13:18 2023] [Server] Got new client 2 ("Affinity Photo 2.0.4.1701")
+[Sat Apr 22 12:13:18 2023] [Client] Connected to server
+[Sat Apr 22 12:13:47 2023] [Client] Stopping IPC connection management
